@@ -32,16 +32,4 @@ Start the Expo development server:
 npm start
 Use the Expo Go app on your mobile device or an emulator to scan the QR code displayed in the terminal.
 
-
-Notes
-Make sure to replace the API URL in the MapViewScreen.js file with your actual API endpoint.
-Additional configuration or setup may be required depending on the platform or environment you are using.
-Feel free to modify and customize the application as per your requirements.
-
  
-
-You can customize the README file according to your project's specific details, including screenshots or a video of the application in action.
-
-Remember to include all the necessary source code files and assets in your GitHub repository.
-
-If you have any further questions, feel free to ask!
