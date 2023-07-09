@@ -20,7 +20,7 @@ This is a React Native application that integrates Google Maps and displays venu
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/mmmubeen761/MapApp
 
 
 Install dependencies:
